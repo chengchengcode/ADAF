@@ -4,4 +4,4 @@ Advection-dominated Accretion Flow (ADAF) model descriptes the dynamics and radi
 
 Equations of Manmoto et al. 1997 are solved.
 
-The fortran code will upload before 20161015.
+ADAF_Bondary.pdf shows how the boundary affect the ADAF structure.
